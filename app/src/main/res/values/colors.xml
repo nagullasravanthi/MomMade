@@ -7,5 +7,7 @@
     <color name="dividerColor">#B6B6B6</color>
     <color name="secondaryText">#727272</color>
     <color name="primaryText">#212121</color>
+    <color name="TextIconsColor">#FFFFFF</color>
     <color name="white">#FFFFFF</color>
+    <color name="blue_grey_500">#607D8B</color>
 </resources>

@@ -1,9 +1,9 @@
 <resources>
     <string name="app_name">MomMade</string>
-    <string name="btn_login">Login</string>
-    <string name="btn_forgot_password">Forgot Password?</string>
-    <string name="btn_link_to_register">Register</string>
-    <string name="btn_link_to_fbRegister">Login with Facebook</string>
-    <string name="hint_email">Email</string>
-    <string name="hint_password">Password</string>
+    <!-- Sign-in status messages -->
+    <string name="signed_in_fmt">Signed in as: %s</string>
+    <string name="loading">Loading…</string>
+    <string name="open">Open Drawer</string>
+    <string name="close">Close Drawer</string>
+
 </resources>
