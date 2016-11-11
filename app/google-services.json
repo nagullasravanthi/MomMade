@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "613625270580",
+    "firebase_url": "https://mommade-a13c3.firebaseio.com",
+    "project_id": "mommade-a13c3",
+    "storage_bucket": "mommade-a13c3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:613625270580:android:33f49f82e9645b43",
+        "android_client_info": {
+          "package_name": "com.in.mommade"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "613625270580-ec8gict1jbdet4m98prfg0f2p9pbl3ll.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDwIES2oWCpFDvRP97ieXODdSBk7GkS48U"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
