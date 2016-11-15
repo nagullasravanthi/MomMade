@@ -37,7 +37,7 @@ public class LoginActivity extends BaseActivity implements
         super.onCreate(savedInstanceState);
         binding = DataBindingUtil.setContentView(this, R.layout.activity_login);
         binding.signInButton.setOnClickListener(this);
-        //startActivity(new Intent(this,MainActivity.class));
+        startActivity(new Intent(this,MainActivity.class));
 
         initGSignIn();
     }
